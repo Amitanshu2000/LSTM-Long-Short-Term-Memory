@@ -5,6 +5,7 @@ This project implements a Long Short-Term Memory (LSTM) neural network to predic
 
 ## Contributors
 - Anirudh Gupta
+- Amitanshu Tiwari
   
 ## Problem Statement
 Stock market prediction is challenging due to the highly volatile and non-linear nature of financial data. Traditional statistical models often struggle to capture these complexities. This project addresses this challenge by using LSTM networks, which excel at modeling sequential data, to enhance forecasting accuracy.
